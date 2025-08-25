@@ -19,3 +19,10 @@ Installation process
 
 6. Run automation after pulling the repo
     Run command → python3 test_credit_memo.py
+
+
+*** Before running the automation we need to update the following:
+1. Download chromedriver and update path in value executable_path in line 10
+. NetSuite URL:
+2. NetSuite User: 
+3. NetSuite User Password:
