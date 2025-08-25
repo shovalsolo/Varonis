@@ -23,6 +23,6 @@ Installation process
 
 *** Before running the automation we need to update the following:
 1. Download chromedriver and update path in value executable_path in line 10
-. NetSuite URL:
-2. NetSuite User: 
-3. NetSuite User Password:
+2. NetSuite URL:
+3. NetSuite User: 
+4. NetSuite User Password:
