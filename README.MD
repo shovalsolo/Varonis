@@ -1,3 +1,5 @@
+The following TC is a Sanity flow to test the basic fuctionalty work
+
 Installation process
 
 1. Pull the repo
