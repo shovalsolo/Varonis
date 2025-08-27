@@ -22,6 +22,9 @@ Installation process
 6. Run automation after pulling the repo
     Run command → python3 test_credit_memo.py
 
+7. Run with report
+	pytest --html=reports/full_report.html --self-contained-html -v
+
 
 *** Before running the automation we need to update the following:
 1. Download chromedriver and update path in value executable_path in line 10
